@@ -9,3 +9,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.custom-footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.footer-container {
+    max-width: 960px;
+    margin: auto;
+
+}
+.footer-text {
+    margin: 0;
+    font-size: 14px;
+    
+}
